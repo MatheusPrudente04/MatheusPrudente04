@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou Matheus Prudente
 
-<!--
-**MatheusPrudente04/MatheusPrudente04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack  
+🎓 Estudante de Ciência da Computação - UNIFESO  
+📍 Teresópolis - RJ  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+Front-End:
+- React
+- JavaScript
+- HTML5
+- CSS3
+
+Back-End:
+- Java
+- Python
+
+Banco de Dados:
+- MySQL
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 Sistema Inteligente de Controle de Acesso (Hackathon 2025)  
+🔹 Leitor Facial com Python  
+🔹 API REST em Java  
+
+---
+
+## 📫 Contato
+
+LinkedIn: linkedin.com/in/matheus-prudente-silva  
+Email: mapruddnte41@gmail.com
+
